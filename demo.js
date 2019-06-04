@@ -1,1 +1,3 @@
-dwe,;' l,']DOMException,a'd 
+var a=100;
+var b=200;
+console.log(a);
